@@ -2,7 +2,7 @@
 
 An interactive web app for finding the genes that are switched on or off in kidney cancer, using public microarray data comparing tumour with normal kidney tissue.
 
-**Live app:** [add your Streamlit link here](https://share.streamlit.io)
+   **Live app:** [Open the app](https://gene-expression-explorer-hk.streamlit.app/)
 
 ![App screenshot](docs/screenshot.png)
 
